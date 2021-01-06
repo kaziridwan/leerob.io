@@ -28,3 +28,6 @@ Create a `.env.local` file similar to [`.env.example`](https://github.com/leerob
 - [Vercel](https://vercel.com)
 - [MDX](https://github.com/mdx-js/mdx)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+#TODO
+add a cms
