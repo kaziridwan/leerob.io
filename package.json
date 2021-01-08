@@ -32,6 +32,7 @@
     "googleapis": "48.0.0",
     "gray-matter": "4.0.2",
     "mdx-prism": "0.3.1",
+    "netlify-cms-app": "^2.14.10",
     "next": "10.0.3",
     "next-mdx-remote": "^1.0.0",
     "next-seo": "4.17.0",
